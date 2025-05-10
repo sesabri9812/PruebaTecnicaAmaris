@@ -1,0 +1,6 @@
+tipo_transaccion,nombre_cliente_proveedor,cantidad_comprada,precio,tipo_energia
+venta,Juan Pérez,100,5000,eólica
+compra,Ana García,150,7500,hidroeléctrica
+venta,Luis Rodríguez,200,10000,nuclear
+compra,Carla López,50,2500,eólica
+venta,Pedro Gómez,120,6000,hidroeléctrica
