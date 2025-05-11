@@ -1,0 +1,6 @@
+nombre_proveedor,tipo_energia,ID
+Proveedor_A,eólica,2
+Proveedor_B,hidroeléctrica,3
+Proveedor_C,nuclear,4
+Proveedor_D,eólica,5
+Proveedor_E,hidroeléctrica,6
