@@ -39,8 +39,8 @@ glueContext.write_dynamic_frame.from_options(
     frame=transformed_dyf,
     connection_type="s3",
     connection_options={
-        "path": "s3://datalake-demo-pruebatecnica/processed/clientes/year=2025/month=05/day=10/",
-        "partitionKeys": []
+        "path": "s3://datalake-demo-pruebatecnica/processed/clientes/",
+        "partitionKeys": ["year", "month", "day"]
     },
     format="parquet"
 )
